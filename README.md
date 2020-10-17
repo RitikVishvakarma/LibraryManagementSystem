@@ -1,2 +1,3 @@
 # LibraryManagementSystem
-The project name is library management system.
+The project name is library management system. In this project I create 6 python file first one is main.py, in this file I import all of other python files and the control start form this file. Second file is AddBook.py, in this python file you can add books by filling BookId, title, author, status. Third file is DeleteBook.py, from DeleteBook.py you can delete books. Fourth file is ViewBook where you see all the books and their details. Fifth file is IssueBook.py, all the detail related to issued is here. And the last one is ReturnBook where you can return the book.
+For this project you need to create databases and table. I attached Database.txt where you can find all the commands for creating tables and database.
