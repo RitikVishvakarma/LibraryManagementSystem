@@ -1,0 +1,4 @@
+create databases lmspython;
+use lmspython
+create table books (id varchar(30), title varchar(30), author varchar(30), status varchar(30), primary key(id));
+create table books_issued (id varchar(30), issuedto varchar(30), primary key(id));
